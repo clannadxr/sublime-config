@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+# -*- coding: utf-8 -*-
+import matplotlib.pyplot as plt
+import numpy as np
+import scipy as sci
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>pyinit</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.python</scope>
+</snippet>

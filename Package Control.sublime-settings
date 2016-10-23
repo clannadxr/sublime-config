@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AutoPEP8",
+		"ChineseLocalizations",
+		"ConvertToUTF8",
+		"DeleteBlankLines",
+		"Emmet",
+		"Fortran",
+		"GBK Support",
+		"IMESupport",
+		"Indent XML",
+		"Layout",
+		"Markdown Preview",
+		"Package Control",
+		"Phpcs",
+		"SFTP",
+		"SideBarEnhancements"
+	]
+}
